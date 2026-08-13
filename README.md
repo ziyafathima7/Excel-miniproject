@@ -1,4 +1,4 @@
-MedCare Clinic & Pharmacy — Patient Visit Data Analysis
+## MedCare Clinic & Pharmacy — Patient Visit Data Analysis
 
 A mini data-analysis project exploring 320 patient visit records from MedCare Clinic & Pharmacy (2023–2024). The goal was to clean real-world messy data and derive business insights using Excel formulas only — no Power Query, Pivot Tables, or VLOOKUP.
 
